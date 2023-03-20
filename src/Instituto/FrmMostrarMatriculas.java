@@ -6,10 +6,7 @@ package colegio;
 
 import javax.swing.table.DefaultTableModel;
 
-/**
- *
- * @author diego
- */
+
 public class FrmMostrarMatriculas extends javax.swing.JFrame {
 
     /**

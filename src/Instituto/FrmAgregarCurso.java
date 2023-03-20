@@ -8,10 +8,7 @@ package colegio;
 import java.awt.HeadlessException;
 import javax.swing.DefaultComboBoxModel;
 import javax.swing.JOptionPane;
-/**
- *
- * @author diego
- */
+
 public class FrmAgregarCurso extends javax.swing.JFrame {
     /**
      * Creates new form FrmAgregarCurso

@@ -9,10 +9,7 @@ import java.awt.Color;
 import java.util.Date;
 import javax.swing.DefaultComboBoxModel;
 import javax.swing.JOptionPane;
-/**
- *
- * @author diego
- */
+
 public class FrmMatriculas extends javax.swing.JFrame {
     /**
      * Creates new form FrmMatriculas

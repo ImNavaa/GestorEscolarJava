@@ -4,10 +4,6 @@ package colegio;
 
 import java.awt.HeadlessException;
 import javax.swing.JOptionPane;
-/**
- *
- * @author diego
- */
 public class FrmAgregarAlumno extends javax.swing.JFrame {
 
     /**
